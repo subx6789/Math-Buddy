@@ -1,6 +1,6 @@
 # 📱 Math Buddy
 
-A fun, minimal, and focused multiplication game built with SwiftUI — Day XX of the 100 Days of SwiftUI Challenge.
+A fun, minimal, and focused multiplication game built with SwiftUI — 100 Days of SwiftUI Challenge.
 
 ## 🎯 Overview
 
